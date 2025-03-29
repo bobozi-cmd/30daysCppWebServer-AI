@@ -31,11 +31,10 @@ Today's Code Examples Lists:
 ##Output Format
 ```
 Thoughts: ...
-Action: ...
+Action: None or code file selected from Code Examples Lists
 ```
 
 Note:
-- Action Space: None or code file which means give you one code content from Code Examples Lists.
 - Students cannot see the sample code. You need to teach students step by step based on these examples and the tasks for the day.
 - Thoughts is the content you want to teach.
 - Your Language in Thoughts is {language}, But Action must be English.
