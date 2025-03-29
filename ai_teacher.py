@@ -55,7 +55,8 @@ Note:
 
         resp = self.client.chat.completions.create(
             model=model,
-            messages=self.messages
+            messages=self.messages,
+            temperature=0.1
         )
 
         resp_content = resp.choices[0].message.content

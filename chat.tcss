@@ -17,7 +17,9 @@ Screen {
     width: 100%;
 }
 
-#user-input {
+TextArea {
     width: 100%;
+    height: 4;  /* 初始高度10行 */
     margin-top: 1;
+    border: double $primary;
 }
